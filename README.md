@@ -1,4 +1,4 @@
-# Sprint Zero "Github"
+# **Sprint Zero "Github"**
  
 - Getting Started 
   
@@ -7,7 +7,7 @@
 - Acknowledgments
 
 
-# Getting Started 
+### Getting Started 
 
 > The main objective of this repository 
 > is to give a brief about the nature of 
