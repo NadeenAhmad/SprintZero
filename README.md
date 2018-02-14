@@ -9,8 +9,10 @@
 
 # Getting Started 
 
+> The main objective of this repository 
+> is to give a brief about the nature of 
+> Github and its importance and how to work with it 
 
-> explanation of content in reop
 ### Author
 Name : Nadeen Shoukry
 ID : 37-4023
