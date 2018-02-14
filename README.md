@@ -1,4 +1,4 @@
-# Sprint Zero "GitHub"
+# Sprint Zero "Github"
  
 - Getting Started 
   
